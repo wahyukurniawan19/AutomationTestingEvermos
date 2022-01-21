@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Login with No Telpon Blank and Kata Sandi Wrong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d708aa79-56f0-4ea9-bb34-fbe1f4e56fbf</testCaseGuid>
+</TestCaseEntity>
